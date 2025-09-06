@@ -231,8 +231,8 @@ This project is released under the MIT License. See `LICENSE` for details.
 
 ## 👤 Author
 **Brijesh Verma** (aka *Programmer Brijesh*)  
-Email: your-email@example.com  
-LinkedIn/Portfolio: https://your-portfolio.example
+Email: brijeshverma8896@gmail.com  
+LinkedIn/Portfolio: https://www.linkedin.com/in/brijesh-verma-2038bb294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
